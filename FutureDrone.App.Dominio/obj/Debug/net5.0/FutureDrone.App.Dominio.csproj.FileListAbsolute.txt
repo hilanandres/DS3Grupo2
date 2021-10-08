@@ -1,0 +1,12 @@
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\obj\Debug\net5.0\FutureDrone.App.Dominio.csprojAssemblyReference.cache
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\obj\Debug\net5.0\FutureDrone.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\obj\Debug\net5.0\FutureDrone.App.Dominio.AssemblyInfoInputs.cache
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\obj\Debug\net5.0\FutureDrone.App.Dominio.AssemblyInfo.cs
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\obj\Debug\net5.0\FutureDrone.App.Dominio.csproj.CoreCompileInputs.cache
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\bin\Debug\net5.0\FutureDrone.App.Dominio.deps.json
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\bin\Debug\net5.0\FutureDrone.App.Dominio.dll
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\bin\Debug\net5.0\ref\FutureDrone.App.Dominio.dll
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\bin\Debug\net5.0\FutureDrone.App.Dominio.pdb
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\obj\Debug\net5.0\FutureDrone.App.Dominio.dll
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\obj\Debug\net5.0\ref\FutureDrone.App.Dominio.dll
+D:\FutureDrone\FutureDrone.App\futuredrone.app.Dominio\obj\Debug\net5.0\FutureDrone.App.Dominio.pdb
